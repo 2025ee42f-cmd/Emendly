@@ -2,6 +2,11 @@
 
 A browser-based PDF editor for making text changes directly in PDF documents, adding text, removing content, and downloading edited files.
 
+## Screenshots
+
+### Main Dashboard
+![Emendly Dashboard](screenshots/Dashboard.png)
+
 **Live Demo:** https://emendly-pdf-editor.netlify.app
 
 ## Features
